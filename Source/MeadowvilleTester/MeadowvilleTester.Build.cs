@@ -17,7 +17,10 @@ public class MeadowvilleTester : ModuleRules
 			"NavigationSystem",
 			"AIModule",
 			"Niagara",
-			"EnhancedInput"
+			"EnhancedInput",
+            "AIModule",
+			"NavigationSystem",
+
 		});
     }
 }
